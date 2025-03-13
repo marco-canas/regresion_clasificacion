@@ -1,4 +1,4 @@
-# Prompt para el sideño de la investigación educativa  
+# Prompt para el diseño de la investigación educativa  
 
 Dame una estructura para una investigación educativa con el enfoque de Investigación-Acción Educativa que incluya este curso sobre "Machine Learning y Deep Learning para estudiantes de administración de empresas del programa G-Líderes". Donde la investigación educativa busque validar la hipótesis de que los enfoques de Aprendizaje Invertido, STEAMS y de Aprendizaje Basado en Problemas y Proyectos (ABPP) implementado a través de cuadernos jupyter con lenguaje Python, editados en local con VS Code y en línea con Google Colab, contribuye al aprendizaje y aplicación de estas herramientas en la resolución de problemas de la vida laboral en el sector privado en estudiantes de administración de empresas de Caucasia - Antioquia - Colombia.  
 
